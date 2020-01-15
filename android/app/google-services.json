@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85867873040",
+    "firebase_url": "https://my-project-265003.firebaseio.com",
+    "project_id": "my-project-265003",
+    "storage_bucket": "my-project-265003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85867873040:android:240bf0c550c2e8c7fc5b95",
+        "android_client_info": {
+          "package_name": "com.panda.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85867873040-cghpeu1mc6js0r2vclmed1b3beh0d7u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYjq_S9ZXTKW3bTsPcuc15dnkorx9gVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85867873040-cghpeu1mc6js0r2vclmed1b3beh0d7u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
